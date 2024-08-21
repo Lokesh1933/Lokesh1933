@@ -50,10 +50,10 @@
   
   
   
-  <!-- <div align="center">
+  <div align="center">
     <h2>🐍 My Contributions 👇 🐍</h2>
     <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Lokesh1933/Lokesh1933/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Lokesh1933/Lokesh1933/output/github-contribution-grid-snake.svg" />
     
     
   </div> -->
