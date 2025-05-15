@@ -1,84 +1,148 @@
-<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Lokesh1933.Lokesh1933" /> -->
-<h1 align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"/>
-  </h1>
-  <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lokesh+Priyanshu!;" />
-  </h1>
+<h1 align="center">Hi , I'm Lokesh Priyanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+ <a href="https://github.com/Lokesh1933/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Cloud%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+</p>
+<hr/>
+<h4 align="center">Final Year student at Shri Mata Vaishno Devi University.</h4>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Lokesh1933&label=Lokesh's%20Profile%20Views%20&color=dc143c&style=plastic" alt="Lokesh1933" /> </p>
+
+## 🔥 Streak Stats
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh1933&theme=algolia" alt="Lokesh1933" /></p>
+
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+
   
-  <h3 align="Center">🌟 Welcome To The Realm 🌟</h3>
+ 
+</p>
+
+### 👉 Frontend Development
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
   
+&emsp; 
+</p>
+
+### 👉 Databases & Cloud Hosting
+
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/></a>
+  &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
+  &emsp;
+    <a href="https://www.heroku.com/"><img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"></a>
+ &emsp; 
+</p>
+
+### 👉 Frameworks
+<p align="left">
+
+&emsp;&ensp;![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?logo=react&logoColor=white)
+&emsp;&ensp;
+</p>
+
+
+### 👉 Software & Tools
+
+<p>
+  &emsp;
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+  &emsp;
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>
+   &emsp;
+	<a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+ 
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+&emsp;
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flate&logo=markdown&logoColor=white"></a>
+ 
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+ &emsp; 
+</p>
+
+<br/>
+
+## 📊 Github Stats (Expand to View)
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  
-  <div align="Center">
-   
-   🔭 I’m an aspiring Web Developer working on  **projects**
-   
-   🌱 I’m currently learning **Javascript**
-  
-  
-  
-  ⚡ Fun fact  **Game of Thrones Night's Watch cloaks are made from Ikea rugs** 
-    
-  
-  </div>
-  <br>
-  
-  <div align="center"><h3>Contact Me! ✨</h3> 
-    <a href="mailto:a301xlokeshn@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    </a>
-    <a href="https://www.linkedin.com/in/lokesh-priyanshu-a4b586256/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-    <!--<a href="https://salesp07.github.io" target="_blank">
-       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-    </a>
-  </div>
-  
-   <hr/>
-   
-  <h2 align="Center">⚒️ Languages-Frameworks-Tools Used⚒️</h2>
+  <p align="center">
+    <a href="https://github.com/Lokesh1933"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lokesh1933&show_icons=true&locale=en&theme=algolia" alt="Lokesh1933" height="192px"/></a>
+	</p>
+	<p  align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokesh1933&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Lokesh1933" height="192px"/>
+	</p>
   <br/>
-  <div align="Center">
-      <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" style="display: block;" />
-      <img src="https://skillicons.dev/icons?i=nodejs,bootstrap,python,javascript,c,java,mysql style="display: block;" /><br>
-      
-  </div>
-  
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-  
-  
-  
- <!-- <div align="center">
-    <h2>🐍 My Contributions 👇 🐍</h2>
-    <br>
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Lokesh1933/Lokesh1933/output/github-contribution-grid-snake.svg" />
-    
-    
-  </div> -->
-  
-  <hr/>
-  
-  <h2 align="center">⚡ Stats ⚡</h2>
-  <br>
-  <div align=center>
-    <!--<img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Lokesh1933&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
-    <img width=390 src="https://streak-stats.demolab.com/?user=Lokesh1933&theme=dark" alt="streak stats"/>
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=Lokesh1933&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <br/>
-    <!--[![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokesh1933)](https://github.com/Lokesh1933/github-readme-stats) -->
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh1933&layout=compact" alt="top langs" /> 
-  </div>
-  
-  
-  
-  <hr/>
-  
-  <!-- <br/>
-  
-  <div align="center">
-  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-  </div> -->
-  
+	<a href="https://github.com/Lokesh1933"><img alt="Lokesh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Lokesh1933&custom_title=Lokesh%20Priyanshu's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+
+</details>
+
+<br/>
+
+## 🙋‍♀️ Let's Connect
+
+<p align="center">
+
+<a href="mailto:a301xlokeshn@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Lokesh1933"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/lokesh-priyanshu"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	
+	
+</p>
+
