@@ -3,7 +3,7 @@
  <a href="https://github.com/Lokesh1933/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Cloud%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">Final Year student at Shri Mata Vaishno Devi University.</h4>
+<h4 align="center">Aspiring Web Developer.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lokesh1933&label=Lokesh's%20Profile%20Views%20&color=dc143c&style=plastic" alt="Lokesh1933" /> </p>
 
